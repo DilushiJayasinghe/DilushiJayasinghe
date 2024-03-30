@@ -1,5 +1,5 @@
-
-<h1 align="center">Hi 👋, I'm Dilushi Jayasinghe</h1>
+<body> <style> body { background-color: black; } </style> 
+  <h1 align="center">Hi 👋, I'm Dilushi Jayasinghe</h1>
 <h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilushijayasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="dilushijayasinghe" /> </p>
@@ -29,3 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilushijayasinghe&show_icons=true&locale=en" alt="dilushijayasinghe" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilushijayasinghe&" alt="dilushijayasinghe" /></p>
+</body>
+
